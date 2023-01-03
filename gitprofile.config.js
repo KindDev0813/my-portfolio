@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'scott-1108', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,44 +11,41 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
+    website: 'https://scott1108.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'topdeveloper-001@outlook.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Vue.js',
+    'Angular.js',
+    'Express.js',
     'MySQL',
-    'PostgreSQL',
+    'MongoDB',
     'Git',
     'Docker',
-    'PHPUnit',
+    'TypeScript',
     'CSS',
     'Antd',
     'Tailwind',
+    'MaterialUI',
   ],
   experiences: [
     {
       company: 'Company Name',
       position: 'Position',
-      from: 'September 2021',
+      from: 'September 2022',
       to: 'Present',
       companyLink: 'https://example.com',
     },
@@ -56,7 +53,21 @@ const config = {
       company: 'Company Name',
       position: 'Position',
       from: 'July 2019',
-      to: 'August 2021',
+      to: 'August 2022',
+      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Company Name',
+      position: 'Position',
+      from: 'May 2017',
+      to: 'June 2019',
+      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Company Name',
+      position: 'Position',
+      from: 'July 2015',
+      to: 'April 2017',
       companyLink: 'https://example.com',
     },
   ],
@@ -70,34 +81,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'University of Toronto',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
-
-  // To hide the `Other Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      from: '2009',
+      to: '2013',
     },
   ],
 
