@@ -16,9 +16,9 @@ const config = {
     dribbble: '',
     behance: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://scott1108.com',
+    website: 'https://shinydev1108.github.io',
     phone: '',
-    email: 'topdeveloper-001@outlook.com',
+    email: 'shinydev1108@gmail.com',
   },
   resume: {
     fileUrl:
