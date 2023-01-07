@@ -16,13 +16,13 @@ const config = {
     dribbble: '',
     behance: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://shinydev1108.github.io',
+    website: 'https://gitprofile-59b04.firebaseapp.com/',
     phone: '',
     email: 'shinydev1108@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
@@ -44,32 +44,22 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2022',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Randstad Technologies',
+      position: 'Junior Full-Stack Developer',
+      from: 'June 2014',
+      to: 'August 2017'
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2022',
-      companyLink: 'https://example.com',
+      company: 'Netcom Business Services',
+      position: 'Software Engineer0',
+      from: 'August 2017',
+      to: 'August 2020'
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'May 2017',
-      to: 'June 2019',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2015',
-      to: 'April 2017',
-      companyLink: 'https://example.com',
+      company: 'Deloitte',
+      position: 'Senior Full-Stack Developer',
+      from: 'August 2020',
+      to: 'Present'
     },
   ],
   /* certifications: [
@@ -82,9 +72,9 @@ const config = {
   ], */
   education: [
     {
-      institution: 'University of Toronto',
-      degree: 'Degree',
-      from: '2009',
+      institution: 'University of Tennessee',
+      degree: 'B.S',
+      from: '2019',
       to: '2013',
     },
   ],
