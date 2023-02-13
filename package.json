@@ -54,7 +54,7 @@
     "eslint-plugin-react": "^7.29.4",
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.12",
-    "prettier": "^2.6.0",
+    "prettier": "^2.8.4",
     "prop-types": "^15.8.1",
     "react-helmet-async": "^1.2.3",
     "react-hotjar": "^5.0.0",
